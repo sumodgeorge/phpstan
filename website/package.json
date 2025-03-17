@@ -10,7 +10,7 @@
 		"knockout": "^3.5.1",
 		"littlefoot": "^3.4.1",
 		"prism-themes": "^1.7.0",
-		"prismjs": "^1.27.0"
+		"prismjs": "^1.30.0"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^1.0.0",
